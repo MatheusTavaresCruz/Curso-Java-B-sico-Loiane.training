@@ -1,0 +1,16 @@
+package com.loiane.cursojava.exeraula17;
+
+public class Exer06 {
+
+    public static void main(String[] args) {
+
+        for (int i= 0; i <= 20; i++) {
+
+            System.out.print(i + " ");
+
+        }
+        for (int i= 0; i <= 20; i++) {
+            System.out.println(i);
+        }
+    }
+}
